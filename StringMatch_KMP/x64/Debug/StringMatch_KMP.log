@@ -1,0 +1,5 @@
+﻿  StringMatch_KMP.cpp
+C:\Users\matri\Desktop\CSAPP\StringMatch\StringMatch_KMP\StringMatch_KMP\StringMatch_KMP.cpp(16,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\matri\Desktop\CSAPP\StringMatch\StringMatch_KMP\StringMatch_KMP\StringMatch_KMP.cpp(17,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\matri\Desktop\CSAPP\StringMatch\StringMatch_KMP\StringMatch_KMP\StringMatch_KMP.cpp(37,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  StringMatch_KMP.vcxproj -> C:\Users\matri\Desktop\CSAPP\StringMatch\StringMatch_KMP\x64\Debug\StringMatch_KMP.exe
